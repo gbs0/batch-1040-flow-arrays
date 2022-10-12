@@ -12,7 +12,7 @@ beatles << "Angelina Jolie"
 beatles.push("Marlon Brando")
 beatles.push("Paul Walker")
 beatles.push("Brad Pitt")
-beatles.push("Arnorld Schwazenegger")
+beatles.push("Arnold Schwazenegger")
 
 beatles.delete_at(0) # Removendo o PRIMEIRO elemento da lista
 beatles.delete_at(beatles.length - 1) # Removendo o ÚLTIMO elemento da lista
