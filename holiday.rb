@@ -8,6 +8,8 @@ date = Date.new(2022, 10, 12) # Iniciando váriavel com valor de Data Especifico
 
 if date.month == 10 && date.day == 12
   puts "Hoje é feriado, aproveite p/ descansar!"
+elsif date.month == 9 && date.day == 7
+  puts "Feliz dia da Independência!" 
 else
   puts "Vá trabalhar, dia normal!"
 end
