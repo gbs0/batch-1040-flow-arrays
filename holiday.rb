@@ -12,7 +12,7 @@ else
   puts "Vá trabalhar, dia normal!"
 end
 
-# Mesmo jeito de escrever a função acima, porém usando Ternário
+# Mesmo jeito de escrever o comportamento acima, porém usando Ternário
 # puts (tomorrow.day == 12) ? "Hoje é feriado, aproveite p/ descansar!" : "Vá trabalhar, dia normal!"
 
 # Switch Case - Jeito mais elegante de escrever if/elsif 
