@@ -19,7 +19,7 @@ end
 
 # Switch Case - Jeito mais elegante de escrever if/elsif 
 # case date.day
-# when 1
+# when 7
 #   puts "Hoje é feriado, aproveite p/ descansar!"
 # when 12
 #   puts "Dia das crianças!"
